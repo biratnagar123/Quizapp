@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, QuizActivity.class);
         startActivity(intent);
     }
+
+    //this is just checking how to use Git
     }
 
